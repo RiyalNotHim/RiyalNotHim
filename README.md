@@ -40,7 +40,7 @@ Full-stack event system with admin/volunteer roles, chatbot support, and AI-assi
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sattyam-chavan)  
 - 💼 [LeetCode](https://leetcode.com/u/RiyalNotHim/)  
 - 💻 [GitHub](https://github.com/RiyalNotHim)
-- 📧 [Email Me](mailto:csattyam@gmail.com)
+- 📧 [Email](mailto:csattyam@gmail.com)
 
   
 ---
