@@ -34,7 +34,7 @@ I build at the intersection of **AI**, **IoT**, and **full-stack**—with a bias
 
 - 🔧 Skills: **Python**, **C++**, **Java**, **HTML/CSS/JS**, **Flask**, **OpenCV**, **NumPy**, **JWT**, **Git**
 - 🗄 Databases: **MongoDB**, **MySQL**
-- 🧠 Interests: **Computer Vision**, **NLP**, **Generative AI**, **Blockchain for Edu/Health**
+- 🧠 Interests: **Computer Vision**, **NLP**, **Generative AI**, **Blockchain**
 - 💬 Motto: _“Code. Learn. Build. Repeat.”_
 
 ---
