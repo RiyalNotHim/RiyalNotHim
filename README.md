@@ -1,48 +1,36 @@
-# 👋 Hi, I'm Sattyam Chavan
+<!--
+  Sattyam Chavan — GitHub Profile README
+  Username: RiyalNotHim
+  Style: clean • futuristic • builder-first
+-->
 
-🚀 **Aspiring AI & Data Science Engineer** | 💻 **Full-Stack Developer** | 🤖 **Smart Systems Innovator**
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/sattyam-chavan">Sattyam Chavan</a></h1>
+<h3 align="center">🚀 Aspiring AI & Data Science Engineer • 💻 Full-Stack Developer • 🤖 Smart Systems Innovator</h3>
+
+<p align="center">
+  <a href="https://github.com/RiyalNotHim">
+    <img src="https://komarev.com/ghpvc/?username=RiyalNotHim&style=for-the-badge&label=Profile+Views" alt="views"/>
+  </a>
+  <a href="mailto:csattyam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-csattyam%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+  <a href="https://leetcode.com/u/RiyalNotHim/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=LeetCode&logoColor=white" alt="leetcode"/>
+  </a>
+  <a href="https://github.com/RiyalNotHim">
+    <img src="https://img.shields.io/badge/GitHub-RiyalNotHim-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&duration=3200&pause=900&center=true&vCenter=true&width=720&lines=Code.+Learn.+Build.+Repeat.;AI+%E2%9A%A1+Full-Stack+%E2%9A%A1+Smart+Systems;From+idea+to+prototype%2C+daily." alt="typing"/>
+</p>
 
 ---
 
 ## 🧠 About Me
+I’m an undergraduate in **Artificial Intelligence & Data Science** who loves turning ideas into intelligent software.  
+I build at the intersection of **AI**, **IoT**, and **full-stack**—with a bias for shipping.
 
-I'm currently pursuing a Bachelor's in **Artificial Intelligence and Data Science**. I love building intelligent systems and full-stack applications that solve real-world problems.
-
-- 🔧 Skilled in **Python**, **C++**, **Java**, **HTML/CSS/JS**, **MongoDB**, **Flask**
-- 🤖 Created **AIGENT** – a JARVIS-inspired AI assistant with facial recognition, NLP, and IoT automation
-- 📊 Built a **College Event Management System** with multi-role access and AI-based role assignment
-- 🔍 Always exploring new tech in **AI**, **IoT**, and **Computer Vision**
-
----
-
-## 🔨 Tech Stack
-
-- **Languages:** Python, C++, Java, HTML, CSS, JavaScript  
-- **Frameworks & Tools:** Flask, OpenCV, NumPy, JWT, Git  
-- **Databases:** MongoDB, MySQL  
-- **Others:** GitHub, NLP, Machine Learning, Deep Learning
-
----
-
-## 📌 Projects
-
-### 🌟 [AIGENT](https://github.com/RiyalNotHim)  
-AI assistant inspired by JARVIS using NLP, facial recognition, and smart automation.
-
-### 📅 [College Event Management System](https://github.com/RiyalNotHim)  
-Full-stack event system with admin/volunteer roles, chatbot support, and AI-assisted signup.
-
----
-
-## 📫 Let’s Connect!
-**Sattyam Chavan**   
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sattyam-chavan)  
-- 💼 [LeetCode](https://leetcode.com/u/RiyalNotHim/)  
-- 💻 [GitHub](https://github.com/RiyalNotHim)
-- 📧 [Email](mailto:csattyam@gmail.com)
-
-  
----
-
-_“Code. Learn. Build. Repeat.”_
+- 🔧 Skills: **Python**, **C++**, **Java**, **HTML/CSS/JS**, **Flask**, **OpenCV**, **NumPy**, **JWT**, **Git**
+- 🗄 Da
