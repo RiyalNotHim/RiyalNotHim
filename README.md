@@ -33,4 +33,66 @@ I’m an undergraduate in **Artificial Intelligence & Data Science** who loves t
 I build at the intersection of **AI**, **IoT**, and **full-stack**—with a bias for shipping.
 
 - 🔧 Skills: **Python**, **C++**, **Java**, **HTML/CSS/JS**, **Flask**, **OpenCV**, **NumPy**, **JWT**, **Git**
-- 🗄 Da
+- 🗄 Databases: **MongoDB**, **MySQL**
+- 🧠 Interests: **Computer Vision**, **NLP**, **Generative AI**, **Blockchain for Edu/Health**
+- 💬 Motto: _“Code. Learn. Build. Repeat.”_
+
+---
+
+## 🔨 Tech Stack
+`Python` • `C++` • `Java` • `HTML` • `CSS` • `JavaScript`  
+`Flask` • `OpenCV` • `NumPy` • `JWT` • `Git`  
+`MongoDB` • `MySQL`  
+`Machine Learning` • `Deep Learning` • `NLP` • `IoT`
+
+---
+
+## 🌟 Flagship Projects
+
+<!-- If any repo names differ, just change the hrefs below to the exact repo paths -->
+
+### 🧬 AIGENT — Desktop Virtual Assistant
+NLP + CV + IoT automation; JARVIS-inspired with **facial recognition** and voice control.  
+➡️ **Repo:** <a href="https://github.com/RiyalNotHim/AIGENT">AIGENT</a>
+
+### 🧠 AI-Driven Event Management (HackXplore 2025)
+Full event workflow with **AI-assisted role assignment**; published as a template.  
+➡️ **Repo:** <a href="https://github.com/RiyalNotHim/AI-Driven-Event-Management">AI-Driven-Event-Management</a>
+
+### 🧾 EduCertify — Blockchain Credentials
+Issue/verify academic certificates using **Aptos + Move** smart contracts.  
+➡️ **Repo:** <a href="https://github.com/RiyalNotHim/EduCertify">EduCertify</a>
+
+### 🩺 Swasta-Setu — Health Access Platform
+Health-tech bridge for streamlined services and access.  
+➡️ **Repo:** <a href="https://github.com/RiyalNotHim/Swasta-Setu">Swasta-Setu</a>
+
+### ⚖️ Legal-Advisory — Everyday Legal Help
+AI-assisted legal advisory for daily life disputes.  
+➡️ **Repo:** <a href="https://github.com/RiyalNotHim/Legal-advisory">Legal-advisory</a>
+
+---
+
+## 🗓️ Project-a-Day Series (Live)
+Building one project **every day** to grow my portfolio and range. Follow the streak below 👇
+
+<!-- Progress: update the count and checklist as you ship -->
+**Current Streak:** **Day 1 / 30**  
+**Theme:** Rapid prototypes in **AI, full-stack, tools, and automation**
+
+**Latest Drops**
+- ✅ Day 1 — _CLI Dev Setup Booster_ (shell script + JSON config)  
+- ⬜ Day 2 — _OCR Receipt Summarizer_ (Flask + Tesseract + export to CSV)  
+- ⬜ Day 3 — _Vision-Notes_ (Webcam scribble → vector notes)  
+- ⬜ Day 4 — _AI Resume Tailor_ (ATS parser + JD keyword match)  
+- ⬜ Day 5 — _Smart Habit Timer_ (PWA + offline store)  
+
+> I’ll pin the best ones to my profile and tag each with `#daily-build`.
+
+**Template I use for each daily repo**
+```text
+<project-name>
+├─ /src
+├─ /docs
+├─ README.md  ← demo gif • features • quickstart • roadmap
+└─ LICENSE
