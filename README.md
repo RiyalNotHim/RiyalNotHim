@@ -90,7 +90,10 @@ Follow my build streak below 👇
 <project-name>
 ├─ /src
 ├─ /docs
-├─ README.md  ← demo gif • features • quickstart • roadmap
+   ├─ USAGE.md
+   ├─ HowToRun.txt
+   └─ output.png
+├─ README.md  ← features • quickstart • roadmap
 └─ LICENSE
 ```
 
